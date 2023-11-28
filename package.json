@@ -1,0 +1,17 @@
+{
+  "name": "halomedia",
+  "version": "1.0.0",
+  "description": "test challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "automation"
+  ],
+  "author": "maugap",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.0.0"
+  }
+}
